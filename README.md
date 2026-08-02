@@ -5,7 +5,6 @@ Página estática lista para GitHub Pages.
 ## Estructura
 
 - `index.html`
-- `assets/ubam-logo.png`
 - `assets/valset-logo.jpg`
 - `.nojekyll`
 
